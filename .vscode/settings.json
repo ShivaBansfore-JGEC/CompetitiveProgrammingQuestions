@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "vector": "cpp",
+        "chrono": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}
